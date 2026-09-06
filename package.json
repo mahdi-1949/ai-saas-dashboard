@@ -18,6 +18,7 @@
     "typescript": "latest",
     "tailwindcss": "latest",
     "@tailwindcss/postcss": "latest",
+    "@opennextjs/cloudflare": "latest",
     "@types/node": "latest",
     "@types/react": "latest"
   }
