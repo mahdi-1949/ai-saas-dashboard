@@ -1,5 +1,5 @@
-import Sidebar from '@/components/Sidebar';
-import StatsCards from '@/components/StatsCards';
+import Sidebar from '../../components/Sidebar';
+import StatsCards from '../../components/StatsCards';
 
 export default function DashboardPage() {
   return (
