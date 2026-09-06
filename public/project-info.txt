@@ -1,0 +1,12 @@
+NexaAI Dashboard
+
+A portfolio-grade AI SaaS dashboard built with modern frontend technologies.
+
+Features:
+- SaaS Landing Page
+- AI Workspace
+- Dashboard Analytics
+- Authentication UI
+- Responsive Design
+
+Built with Next.js, TypeScript and Tailwind CSS.
