@@ -1,36 +1,76 @@
-# AI SaaS Dashboard
+# 🚀 NexaAI - AI SaaS Dashboard
 
-A modern AI SaaS dashboard built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
+![Next.js](https://img.shields.io/badge/Next.js-15-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38BDF8)
+![Framer Motion](https://img.shields.io/badge/Animation-Framer%20Motion-purple)
 
-## Overview
+A modern AI SaaS dashboard interface built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
-A portfolio-grade SaaS interface featuring a modern landing page, analytics dashboard, AI workspace, and responsive user experience.
+Designed as a production-style portfolio project with a premium landing page, analytics dashboard, AI workspace, and responsive user experience.
 
-## Features
+## ✨ Features
 
 - Modern SaaS landing page
-- Responsive dashboard layout
-- AI chat workspace
-- Analytics cards and metrics
-- Dark mode ready architecture
-- Clean component-based structure
+- Responsive navigation
+- AI chat workspace UI
+- Analytics dashboard
+- Pricing sections
+- Authentication pages
+- User settings
+- Dark mode architecture
+- Motion-based interactions
+- Component-driven architecture
 
-## Tech Stack
+## 🖥️ Screens
 
-- Next.js
+### Landing Page
+
+Premium SaaS marketing interface with hero section, features, pricing, and testimonials.
+
+### Dashboard
+
+Interactive workspace containing:
+
+- Analytics cards
+- AI assistant panel
+- User management sections
+- Settings interface
+
+## 🛠️ Tech Stack
+
+- Next.js 15
+- React
 - TypeScript
 - Tailwind CSS
 - Framer Motion
 - Shadcn UI
 - Lucide Icons
 
-## Getting Started
+## 📦 Installation
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Author
+## 📁 Project Structure
+
+```
+app/
+components/
+public/
+docs/
+```
+
+## 🚀 Future Improvements
+
+- Real AI API integration
+- Authentication backend
+- Database integration
+- Subscription billing
+- User analytics
+
+## 👨‍💻 Author
 
 Mahdi Tavakoli
