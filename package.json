@@ -11,12 +11,13 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "framer-motion": "latest",
+    "framer-motion": "framer-motion",
     "lucide-react": "latest"
   },
   "devDependencies": {
     "typescript": "latest",
     "tailwindcss": "latest",
+    "@tailwindcss/postcss": "latest",
     "@types/node": "latest",
     "@types/react": "latest"
   }
