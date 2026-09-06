@@ -11,7 +11,7 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "framer-motion": "framer-motion",
+    "framer-motion": "latest",
     "lucide-react": "latest"
   },
   "devDependencies": {
